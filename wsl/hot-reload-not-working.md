@@ -4,6 +4,7 @@
 ## TLDR
 
 - Webpack
+
     Create `.env` or `.env.local` with the contents:
     ```bash
     WATCHPACK_POLLING=true
