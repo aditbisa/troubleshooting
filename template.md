@@ -5,6 +5,9 @@
 
 The problem and the solution.
 
+Check [github alias for syntax highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+to use for the solution.
+
 
 ## The Story
 
