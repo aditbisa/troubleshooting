@@ -27,7 +27,7 @@ Description about:
 
 
 ## Issue
-- Degree: brain-fog | i-dont-know-that | bug | forget-it
+- Degree: brain-fog | i-didnt-know-that | bug | forget-it
 - Keywords:
     - I have problem with this
     - Turn out its the problem with that

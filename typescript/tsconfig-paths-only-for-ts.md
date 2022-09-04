@@ -42,7 +42,7 @@ But tsconfig is only for typescript, not for styles.
 
 
 ## Issue
-- Degree: i-dont-know-that
+- Degree: i-didnt-know-that
 - Keywords:
     - tsconfig paths not for styles
     - alias for styles
