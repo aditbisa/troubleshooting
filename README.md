@@ -14,4 +14,5 @@ This collection is not about fixing business logic in the code, rather its about
 All the collection will be in markdown document for direct publish from github.
 With the intention to be indexed later, hence some format identical to YAML.
 
-Check the [template](./template.md).
+Use the [template](./template.md) and place in folder with the actual problem came from.
+Be it the framework, language, or the environment.
