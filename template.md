@@ -3,25 +3,25 @@
 
 ## TLDR
 
-The problem and the solution.
+*The problem and the solution.*
 
-Check [github alias for syntax highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
-to use for the solution.
+*Check [github alias for syntax highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) to use for the solution.*
 
 
 ## The Story
 
-Description about:
-- whats the problem
-- how does it happen
-- whats the actual problem.
+*Description about:*
+- *whats the problem*
+- *how does it happen*
+- *whats the actual problem*
 
 
-## Reproduction
+## Reproduce
 
-How to reproduce the problem.
+*How to reproduce the problem.*
 
 ## Environment
+
 - OS:
     - Windows 10
     - WSL2
@@ -31,13 +31,14 @@ How to reproduce the problem.
 
 
 ## Issue
-- Degree: brain-fog | i-didnt-know-that | bug | forget-it
+
+- Degree: brain-fog | how-to | i-didnt-know-that | bug | forget-it
 - Keywords:
-    - I have problem with this
-    - Turn out its the problem with that
-    - Language suck
+    - *I have problem with this*
+    - *Turn out its the problem with that*
+    - *Language suck*
 - References:
-    - Link to stackoverflow
-    - Link to git issue
-    - Link to blog
-    - Link to document
+    - *Link to stackoverflow*
+    - *Link to git issue*
+    - *Link to blog*
+    - *Link to document*

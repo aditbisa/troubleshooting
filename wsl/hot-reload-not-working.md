@@ -16,7 +16,11 @@
 WSL2 have known issue with hot reloading.
 
 
+## Reproduce
+
+
 ## Environment
+
 - OS:
     - Windows 10
     - WSL2
@@ -27,6 +31,7 @@ WSL2 have known issue with hot reloading.
 
 
 ## Issue
+
 - Degree: bug
 - Keywords:
     - hot reload not working

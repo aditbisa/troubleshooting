@@ -15,10 +15,11 @@ session.query(Table.id, Table.column)
 ## The Story
 
 
-## Reproduction
+## Reproduce
 
 
 ## Environment
+
 - Language:
     - Python
 - Framework:
@@ -26,6 +27,7 @@ session.query(Table.id, Table.column)
 
 
 ## Issue
+
 - Degree: i-didnt-know-that
 - Keywords:
     - load_only not working

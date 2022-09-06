@@ -1,4 +1,4 @@
-# Tsconfig paths only for ts files
+# tsconfig "paths" only for typescript files
 
 
 ## TLDR
@@ -33,7 +33,11 @@ Also, its nice and readable.
 But tsconfig is only for typescript, not for styles.
 
 
+## Reproduce
+
+
 ## Environment
+
 - Language:
     - typescript
 - Framework:
@@ -42,6 +46,7 @@ But tsconfig is only for typescript, not for styles.
 
 
 ## Issue
+
 - Degree: i-didnt-know-that
 - Keywords:
     - tsconfig paths not for styles
