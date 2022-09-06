@@ -6,6 +6,7 @@ This collection is not about fixing business logic in the code, rather its about
 - fixing configuration,
 - dealing with language/framework limitation,
 - brain-fog problem,
+- **how-to** notes,
 - etc.
 
 
@@ -14,5 +15,10 @@ This collection is not about fixing business logic in the code, rather its about
 All the collection will be in markdown document for direct publish from github.
 With the intention to be indexed later, hence some format identical to YAML.
 
-Use the [template](./template.md) and place in folder with the actual problem came from.
-Be it the framework, language, or the environment.
+Use the [template](./template.md) and place in folder with the actual problem came from, be it the framework, language, or the environment.
+
+
+## TODO
+
+- index list
+- commit hook to auto populate index
